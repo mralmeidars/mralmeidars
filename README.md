@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Data Specialist, Data Engineer and Data Architect</h1>
+<h1 align="center">I'm a Data Specialist, Data Engineer and Data Architect constantly evolving</h1>
 <h3 align="center">A passionate to play guitar, have fun with my family and study new technologies</h3>
 
 - 🌱 I’m currently studying **Data Engineering, Data Architecture, Big Data Technologies - AWS, Azure, GCP, Snowflake, Databricks, Spark, DataOps, DevOps, Kubernetes**
