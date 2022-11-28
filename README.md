@@ -8,8 +8,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing](https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing)
 
 - 📄 My Credentials
-www.credly.com/users/mralmeidars/badges
-www.credential.net/profile/mralmeidars/wallet#gs.c1woqi
+- www.credly.com/users/mralmeidars/badges
+- www.credential.net/profile/mralmeidars/wallet#gs.c1woqi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
