@@ -1,13 +1,13 @@
 <h1 align="center">Data Specialist, Data Engineer, and Data Architect who is constantly evolving</h1>
 <h3 align="center">A passionate to play guitar, have fun with my family and study new technologies</h3>
 
-- 🌱 I’m currently studying **Data Engineering, Data Architecture, Big Data Technologies - AWS, Azure, GCP, Snowflake, Databricks, Spark, DataOps, DevOps, Kubernetes**
+-- 🌱 I’m currently studying **Data Engineering, Data Architecture, Big Data Technologies - AWS, Azure, GCP, Snowflake, Databricks, Spark, DataOps, DevOps, Kubernetes**
 
-- 📫 How to reach me **mralmeidars@gmail.com**
+-- 📫 How to reach me **mralmeidars@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing](https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing)
+-- 📄 Know about my experiences https://drive.google.com/file/d/11ZDDWAFLprInVU3zscImvoMJnFTesrwu/view?usp=share_link
 
-- 📄 My Credentials
+-- 📄 My Credentials
 - www.credly.com/users/mralmeidars/badges
 - www.credential.net/profile/mralmeidars/wallet#gs.c1woqi
 
