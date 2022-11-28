@@ -7,6 +7,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing](https://drive.google.com/file/d/1lheiLcrq3o58JWjQlphhIxUaRzP7PljO/view?usp=sharing)
 
+- 📄 My Credentials
+www.credly.com/users/mralmeidars/badges
+www.credential.net/profile/mralmeidars/wallet#gs.c1woqi
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mralmeidars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mralmeidars" height="30" width="40" /></a>
