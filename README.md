@@ -1,7 +1,7 @@
 <h1 align="center">Data Specialist, Data Engineer, and Data Architect who is constantly evolving</h1>
 <h3 align="center">A passionate to play guitar, have fun with my family and study new technologies</h3>
 
--- 🌱 **I’m currently studying Data Engineering, Data Architecture, Big Data Technologies - AWS, Azure, GCP, Snowflake, Databricks, Spark, DataOps, DevOps, Kubernetes**
+-- 🌱 **I’m currently studying Data Engineering, Data Architecture, Big Data, AWS, Azure, GCP, Snowflake, Databricks, Spark, Kafka, DataOps, DevOps, Kubernetes**
 
 -- 📫 How to reach me: **mralmeidars@gmail.com**
 
