@@ -3,7 +3,7 @@
 
 -- 🌱 **I’m currently studying Data Engineering, Data Architecture, Big Data Technologies - AWS, Azure, GCP, Snowflake, Databricks, Spark, DataOps, DevOps, Kubernetes**
 
--- 📫 How to reach me **mralmeidars@gmail.com**
+-- 📫 How to reach me: **mralmeidars@gmail.com**
 
 -- 📄 **Know about my experiences** 
 - https://drive.google.com/file/d/1L3KBu946Cm9fQr6oTs68HrZWV8ogWbTC/view?usp=share_link
