@@ -1,5 +1,5 @@
-<h1 align="center">Data Specialist, Data Engineer, and Data Architect who is constantly evolving</h1>
-<h3 align="center">A passionate to play guitar, have fun with my family and study new technologies</h3>
+<h1 align="center">Data Engineer, Data Architect, Data Specialist who is constantly evolving</h1>
+<h3 align="center">A passionate to study new technologies, play guitar, and have fun with my family and friends</h3>
 
 -- 🌱 **I’m currently studying Data Engineering, Data Architecture, Big Data, AWS, Azure, GCP, Snowflake, Databricks, Spark, Kafka, DataOps, DevOps, Kubernetes**
 
